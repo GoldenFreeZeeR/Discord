@@ -1,0 +1,8 @@
+# Discord
+[
+  {
+    "id": "redeploy-webhook",
+    "execute-command": "/var/scripts/redeploy.sh",
+    "command-working-directory": "/var/webhook"
+  }
+]
